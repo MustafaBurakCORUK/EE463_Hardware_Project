@@ -2,6 +2,6 @@
 
 **MEMBERS**
 
--Kamer Taha GENÇ n
--Mustafa Burak ÇORUK n
+-Kamer Taha GENÇ \
+-Mustafa Burak ÇORUK \
 -Öykü KAYAN
